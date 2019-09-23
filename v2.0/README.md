@@ -1,10 +1,5 @@
 # GifMaker v2.0
 video 파일을 GIF파일로 변환하는 기능, 편집하기 기능도 추가
-### Index
-- [기능](#기능)
-- [설계 및 구현](#설계-및-구현)
-- [trouble shooting](#trouble-shooting)
-- [학습한 내용](#관련-학습-내용)
 
 ## 할일  
 - [GIF 파일 저장하기] 
